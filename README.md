@@ -1,2 +1,3 @@
 # fantastic-spork
-All about learning
+how to hack
+htt://gethub./
